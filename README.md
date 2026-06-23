@@ -1,6 +1,6 @@
 # JohaAudiPS 🛡️
 
-EthicalWebAuditor es una herramienta en **PowerShell** para realizar auditorías básicas de seguridad web de manera ética y educativa.  
+JohaAudiPS es una herramienta en **PowerShell** para realizar auditorías básicas de seguridad web de manera ética y educativa.  
 Su propósito es ayudar a desarrolladores y estudiantes a entender cómo verificar configuraciones de seguridad en sus propios proyectos.
 
 ---
